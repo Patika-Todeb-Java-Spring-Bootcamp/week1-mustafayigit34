@@ -9,8 +9,8 @@ import java.util.Date;
 public class Immutable {
 
     public static void main(String[] args) {
-        Car car = new Car(Model.FORD, 2000, 5, new Date(), 10, Color.BLACK);
-        Car car = new Car(Model.TOYOTA, 1999, 4, new Date(), 9, Color.GREEN);
+        Car car1 = new Car(Model.FORD, 2000, 5, new Date(), 10, Color.BLACK);
+        Car car2 = new Car(Model.TOYOTA, 1999, 4, new Date(), 9, Color.GREEN);
        
     }
 }
