@@ -1,7 +1,7 @@
 # week1-mustafayigit34
 week1-mustafayigit34 created by GitHub Classroom
 
-## Ödev 1
+## Ödev 1 (week1/immutable)
 
 Java’da değişmez sınıf (immutable class) yapmak için aşağıdaki adımları uygulamanız gerekir. Bu adımlar:
 -   Sınıfı, **final** anahtarı ile işaretlemek gerekir, böylece genişletilemez (extend edilemez).
@@ -66,7 +66,7 @@ public final class Car {
 }
 ```
 
-## Ödev 2
+## Ödev 2 (week1/work1)
 Maven build sistemi ile bir ana proje ve içerisinde iki farklı java projesi olacak şekilde Consumer ve Producer oluşturulmuştur.
 * Consumer
 	* score.txt dosyası okunacak.
@@ -85,7 +85,7 @@ Oluşturulan Maven build sistemi aşağıdaki gibidir:
   <img src="https://user-images.githubusercontent.com/65903573/175336982-8321f23b-c920-49e0-8434-0b1a86ce3af5.png" />
 </p>
 
-## Ödev 3
+## Ödev 3 (week1/work2)
 Ödev 2'ye ek olarak yine Maven build sistemi ve 3. bir projede "thread" ile bu işlem yapılmıştır. Bu projeye ait yapı aşağıdaki gibidir:
 
 <p align="center">
